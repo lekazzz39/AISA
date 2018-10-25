@@ -1,0 +1,15 @@
+certifi==2018.10.15
+chardet==3.0.4
+get==1.0.3
+idna==2.7
+numpy==1.15.3
+pandas==0.23.4
+post==1.0.2
+public==2.0.1
+python-dateutil==2.7.3
+pytz==2018.6
+query-string==1.0.2
+request==1.0.2
+requests==2.20.0
+six==1.11.0
+urllib3==1.24
